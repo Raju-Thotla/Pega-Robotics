@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+ <book>
+   
+   <price>10.19</price>
+
+ </book>
+
+<pause>
+
+  <price>16.49</price>
+
+</pause>
+</bookstore>
